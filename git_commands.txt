@@ -1,0 +1,26 @@
+               Git Commands
+
+
+ 1. clone any project from git =>  run
+        *  git clone url 
+        *  cd Repo name
+        *  npm install 
+
+ 2. how to push new project on git        =>  run
+        *  make new repo at git
+        *  open terminal 
+        *  git init
+        *  git config --global user.name "madiha-eman"
+        *  git config --global user.email "myu@gmail.com"
+        *  git add .
+        *  git commit -m "anycomment"
+        *  git remote add origin url
+        *  git push -u origin master
+
+ 3. how to push after doing some changes in project if u have exit repo
+        *  git add .
+        *  git commit -m "anycomment"
+        *  git push -u origin master
+
+ 4. how to pull from git 
+        * git pull 
